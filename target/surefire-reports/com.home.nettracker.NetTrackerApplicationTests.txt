@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.home.nettracker.NetTrackerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.280 s -- in com.home.nettracker.NetTrackerApplicationTests
